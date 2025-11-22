@@ -6,7 +6,7 @@
 	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_cmake
 [submodule "doc"]
 	path = doc
-	url = ../vst3_doc
+	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_doc
 [submodule "pluginterfaces"]
 	path = pluginterfaces
 	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_pluginterfaces
@@ -15,7 +15,7 @@
 	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_public_sdk
 [submodule "tutorials"]
 	path = tutorials
-	url = ../vst3_tutorials
+	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_tutorials
 [submodule "vstgui4"]
 	path = vstgui4
-	url = ../vstgui
+	url = https://ouroboros-audio@github.com/ouroboros-audio/vstgui
