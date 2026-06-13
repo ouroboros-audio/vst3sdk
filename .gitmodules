@@ -1,21 +1,42 @@
 [submodule "base"]
 	path = base
-	url = ../vst3_base
+	url = https://github.com/ouroboros-audio/vst3_base
+	branch = master
+	upstream-url = https://github.com/steinbergmedia/vst3_base
+	upstream-branch = master
 [submodule "cmake"]
 	path = cmake
-	url = ../vst3_cmake
+	url = https://github.com/ouroboros-audio/vst3_cmake
+	branch = master
+	upstream-url = https://github.com/steinbergmedia/vst3_cmake
+	upstream-branch = master
 [submodule "doc"]
 	path = doc
-	url = ../vst3_doc
+	url = https://github.com/ouroboros-audio/vst3_doc
+	branch = master
+	upstream-url = https://github.com/steinbergmedia/vst3_doc
+	upstream-branch = master
 [submodule "pluginterfaces"]
 	path = pluginterfaces
-	url = ../vst3_pluginterfaces
+	url = https://github.com/ouroboros-audio/vst3_pluginterfaces
+	branch = ath/main
+	upstream-url = https://github.com/steinbergmedia/vst3_pluginterfaces
+	upstream-branch = master
 [submodule "public.sdk"]
 	path = public.sdk
-	url = ../vst3_public_sdk
+	url = https://github.com/ouroboros-audio/vst3_public_sdk
+	branch = ath/main
+	upstream-url = https://github.com/steinbergmedia/vst3_public_sdk
+	upstream-branch = master
 [submodule "tutorials"]
 	path = tutorials
-	url = ../vst3_tutorials
+	url = https://github.com/ouroboros-audio/vst3_tutorials
+	branch = main
+	upstream-url = https://github.com/steinbergmedia/vst3_tutorials
+	upstream-branch = main
 [submodule "vstgui4"]
 	path = vstgui4
-	url = ../vstgui
+	url = https://github.com/ouroboros-audio/vstgui
+	branch = master
+	upstream-url = https://github.com/steinbergmedia/vstgui
+	upstream-branch = master
