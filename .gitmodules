@@ -24,7 +24,7 @@
 	upstream-branch = master
 [submodule "public.sdk"]
 	path = public.sdk
-	url = https://github.com/ouroboros-audio/vst3_public_sdk
+	url = https://ouroboros-audio@github.com/ouroboros-audio/vst3_public_sdk
 	branch = ath/main
 	upstream-url = https://github.com/steinbergmedia/vst3_public_sdk
 	upstream-branch = master
